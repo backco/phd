@@ -1,1 +1,11 @@
-# phd
+# Repositories and affiliated research papers
+- https://github.com/backco/eventropy
+    - (2017) Towards an Entropy-based Analysis of Log Variability
+    - (2019) Entropy as a Measure of Log Variability
+- https://github.com/backco/qmpm  
+    - (2018) Towards and Empirical Evaluation of Imperative and Declarative Process Mining 
+    - (-----) Imperative or Declarative? An Empirical Comparison of Event Logs
+    - (2019) Discovering Responsibilities with Dynamic Condition Response Graphs
+    - (2020) DisCoveR: Accurate & Efficient Discovery of Declarative Process Models
+ - https://github.com/backco/skokkr, https://github.com/backco/vidr, https://github.com/backco/XESTools
+     - Dependencies for eventropy and qmpm
